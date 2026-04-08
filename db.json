@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Neon Optimizer",
+    "type": "pc",
+    "icon": "🚀",
+    "dev": "AeroSoft",
+    "stars": 4.9,
+    "desc": "Ultra-fast Win32 optimization.",
+    "download": "https://github.com/..."
+  }
+]
