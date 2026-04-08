@@ -2,11 +2,27 @@
   {
     "id": 1,
     "name": "Neon Optimizer",
+    "dev": "AeroSoft",
     "type": "pc",
     "icon": "🚀",
-    "dev": "AeroSoft",
+    "custom_icon": "https://cdn-icons-png.flaticon.com/512/785/785116.png",
     "stars": 4.9,
-    "desc": "Ultra-fast Win32 optimization.",
-    "download": "https://github.com/..."
+    "size": "14.2 MB",
+    "desc": "Next-gen system tune-up utility.",
+    "long_text": "Neon Optimizer is a native Win32 application designed to maximize system interrupts and clear registry bloat. Built in 2013, it uses legacy hardware calls to ensure 0ms latency in background processing.\n\nKey Features:\n- RAM Compression\n- Registry Defrag\n- Startup Boost",
+    "download": "https://github.com/smgst2025/tested2026/raw/main/files/opt.exe"
+  },
+  {
+    "id": 2,
+    "name": "Weather KitKat",
+    "dev": "HoloDesign",
+    "type": "mobile",
+    "icon": "🌤️",
+    "custom_icon": "https://cdn-icons-png.flaticon.com/512/1163/1163734.png",
+    "stars": 4.5,
+    "size": "22.1 MB",
+    "desc": "Accurate weather with 2013 widgets.",
+    "long_text": "Experience the classic weather interface of the KitKat era. This app provides hyper-local forecasts and beautiful 4x2 glossy widgets for your home screen.\n\nChanges in v1.4:\n- Fixed location bug\n- New high-res icons",
+    "download": "https://github.com/smgst2025/tested2026/raw/main/files/weather.apk"
   }
 ]
