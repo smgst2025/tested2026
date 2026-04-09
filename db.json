@@ -1,28 +1,24 @@
-[
-  {
-    "id": 1,
-    "name": "Neon Optimizer",
-    "dev": "AeroSoft",
-    "type": "pc",
-    "icon": "🚀",
-    "custom_icon": "https://cdn-icons-png.flaticon.com/512/785/785116.png",
-    "stars": 4.9,
-    "size": "14.2 MB",
-    "desc": "Next-gen system tune-up utility.",
-    "long_text": "Neon Optimizer is a native Win32 application designed to maximize system interrupts and clear registry bloat. Built in 2013, it uses legacy hardware calls to ensure 0ms latency in background processing.\n\nKey Features:\n- RAM Compression\n- Registry Defrag\n- Startup Boost",
-    "download": "https://github.com/smgst2025/tested2026/raw/main/files/opt.exe"
+{
+  "store": {
+    "name": "Play Pro",
+    "logo": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
+    "accentColor": "#01875f",
+    "copyright": "© 2025 Google LLC"
   },
-  {
-    "id": 2,
-    "name": "Weather KitKat",
-    "dev": "HoloDesign",
-    "type": "mobile",
-    "icon": "🌤️",
-    "custom_icon": "https://cdn-icons-png.flaticon.com/512/1163/1163734.png",
-    "stars": 4.5,
-    "size": "22.1 MB",
-    "desc": "Accurate weather with 2013 widgets.",
-    "long_text": "Experience the classic weather interface of the KitKat era. This app provides hyper-local forecasts and beautiful 4x2 glossy widgets for your home screen.\n\nChanges in v1.4:\n- Fixed location bug\n- New high-res icons",
-    "download": "https://github.com/smgst2025/tested2026/raw/main/files/weather.apk"
-  }
-]
+  "apps": [
+    {
+      "id": "1",
+      "name": "App Name",
+      "dev": "Dev Name",
+      "stars": "4.8",
+      "size": "25MB",
+      "version": "2.0.1",
+      "updated": "Oct 12, 2025",
+      "category": "Productivity",
+      "desc": "Short description",
+      "long_text": "Detailed description...",
+      "custom_icon": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
+      "type": "mobile"
+    }
+  ]
+}
