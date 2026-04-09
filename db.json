@@ -1,21 +1,21 @@
 {
   "store": {
-    "name": "Play Store Pro",
+    "name": "Ali Store",
     "logo": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
     "accentColor": "#0253d6",
-    "copyright": "© 2026 TechSoft Global"
+    "copyright": "© 2026 Ali Store"
   },
   "apps": [
     {
       "id": "1",
-      "name": "Nova Launcher",
-      "dev": "TeslaCoil Software",
-      "stars": "4.8",
-      "size": "12 MB",
-      "version": "8.0.16",
+      "name": "Test",
+      "dev": "Ali Store",
+      "stars": "NaN",
+      "size": "NaN",
+      "version": "1",
       "category": "Personalization",
-      "desc": "The gold standard for Android launchers.",
-      "long_text": "Nova Launcher is a powerful, customizable, and versatile home screen replacement. Nova brings advanced features to improve your home screens.",
+      "desc": "idk why this doesnt show up in UI.",
+      "long_text": "This is a test for a store that i'm developing in php using Gemini.",
       "custom_icon": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
       "type": "mobile",
       "download": "https://example.com/"
