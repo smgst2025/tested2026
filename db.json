@@ -1,24 +1,24 @@
 {
   "store": {
-    "name": "Play Pro",
+    "name": "Play Store Pro",
     "logo": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
     "accentColor": "#01875f",
-    "copyright": "© 2025 Google LLC"
+    "copyright": "© 2026 TechSoft Global"
   },
   "apps": [
     {
       "id": "1",
-      "name": "App Name",
-      "dev": "Dev Name",
+      "name": "Nova Launcher",
+      "dev": "TeslaCoil Software",
       "stars": "4.8",
-      "size": "25MB",
-      "version": "2.0.1",
-      "updated": "Oct 12, 2025",
-      "category": "Productivity",
-      "desc": "Short description",
-      "long_text": "Detailed description...",
+      "size": "12 MB",
+      "version": "8.0.16",
+      "category": "Personalization",
+      "desc": "The gold standard for Android launchers.",
+      "long_text": "Nova Launcher is a powerful, customizable, and versatile home screen replacement. Nova brings advanced features to improve your home screens.",
       "custom_icon": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
-      "type": "mobile"
+      "type": "mobile",
+      "download": "https://example.com/"
     }
   ]
 }
