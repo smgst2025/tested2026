@@ -13,11 +13,11 @@
       "stars": "NaN",
       "size": "NaN",
       "version": "1",
-      "category": "Personalization",
+      "category": "Selfishness",
       "desc": "idk why this doesnt show up in UI.",
-      "long_text": "This is a test for a store that i'm developing in php using Gemini.",
+      "long_text": "This is a test for a store that i'm developing in PHP using Gemini.",
       "custom_icon": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
-      "type": "mobile",
+      "type": "script",
       "download": "https://example.com/"
     }
   ]
