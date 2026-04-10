@@ -8,17 +8,17 @@
   "apps": [
     {
       "id": "1",
-      "name": "Test",
-      "dev": "Ali Store",
+      "name": "Arduino Droid",
+      "dev": "This app's owner",
       "stars": "NaN",
-      "size": "NaN",
-      "version": "1",
-      "category": "Selfishness",
+      "size": "156 MB",
+      "version": "6.3.1",
+      "category": "Utility",
       "desc": "idk why this doesnt show up in UI.",
       "long_text": "This is a test for a store that i'm developing in PHP using Gemini.",
       "custom_icon": "https://lh3.googleusercontent.com/a/ACg8ocLuwTMC3rCBmmNpR0zRMHtf1b9q2ZKoCesSYodr2nDJUMfbzA=s720-c-mo",
-      "type": "script",
-      "download": "https://example.com/"
+      "type": "app",
+      "download": "https://files.catbox.moe/8if7l7.apk"
     }
   ]
 }
