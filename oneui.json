@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gallery",
+    "name": "Gallery",
+    "color": "#fff",
+    "icon": "🖼️",
+    "style": "background: #fff;",
+    "content": "<div style='display:grid;grid-template-columns:1fr 1fr;gap:10px'><div style='background:#eee;aspect-ratio:1'></div><div style='background:#ddd;aspect-ratio:1'></div></div>"
+  }
+]
