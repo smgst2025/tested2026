@@ -2,9 +2,9 @@
   {
     "id": "gallery",
     "name": "Gallery",
-    "color": "#fff",
+    "color": "#fdd",
     "icon": "🖼️",
     "style": "background: #fff;",
-    "content": "<div style='display:grid;grid-template-columns:1fr 1fr;gap:10px'><div style='background:#eee;aspect-ratio:1'></div><div style='background:#ddd;aspect-ratio:1'></div></div>"
+    "content": "<div style='display:grid;grid-template-columns:1fr 1fr;gap:10px'><div style='background:#0c0;aspect-ratio:1'></div><div style='background:#c00;aspect-ratio:1'></div></div>"
   }
 ]
