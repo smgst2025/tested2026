@@ -6,19 +6,19 @@
     "bg": "#e0e0e0"
   },
   "branding": {
-    "title": "MAS Deployment",
-    "subtitle": "GitHub-Powered Office Setup"
+    "title": "WOAS",
+    "subtitle": "Powered by MAS."
   },
   "steps": [
     {
       "id": 1,
-      "title": "Select Edition",
+      "title": "Select mode",
       "type": "selection",
-      "instruction": "Choose your Microsoft Office version:",
+      "instruction": "Choose the type of Microsoft product you want to activate:",
       "items": [
         {"label": "Office 2021 LTSC", "sub": "Volume License", "value": "2021"},
         {"label": "Office 2019 Pro", "sub": "Standard License", "value": "2019"},
-        {"label": "Office 365", "sub": "Enterprise Apps", "value": "O365"}
+        {"label": "All", "sub": "Script that has em' all activated.", "value": "2019"},
       ]
     },
     {
