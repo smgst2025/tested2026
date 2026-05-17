@@ -1,0 +1,49 @@
+{
+  "theme": {
+    "primary": "#009688",
+    "primaryDark": "#00796B",
+    "accent": "#FF4081",
+    "bg": "#e0e0e0"
+  },
+  "branding": {
+    "title": "MAS Deployment",
+    "subtitle": "GitHub-Powered Office Setup"
+  },
+  "steps": [
+    {
+      "id": 1,
+      "title": "Select Edition",
+      "type": "selection",
+      "instruction": "Choose your Microsoft Office version:",
+      "items": [
+        {"label": "Office 2021 LTSC", "sub": "Volume License", "value": "2021"},
+        {"label": "Office 2019 Pro", "sub": "Standard License", "value": "2019"},
+        {"label": "Office 365", "sub": "Enterprise Apps", "value": "O365"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Installation",
+      "type": "progress",
+      "instruction": "Deploying binaries to C:\\Program Files...",
+      "statusMessages": ["Downloading...", "Extracting...", "Registering...", "Done."]
+    },
+    {
+      "id": 3,
+      "title": "MAS Activation",
+      "type": "terminal",
+      "instruction": "Choose activation method (massgrave.dev)",
+      "methods": [
+        {"label": "[1] Ohook", "cmd": "Executing Ohook bypass..."},
+        {"label": "[2] Online KMS", "cmd": "Contacting KMS server..."}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Complete",
+      "type": "final",
+      "instruction": "Success! Office is ready.",
+      "codeSnippet": "irm https://massgrave.dev/get | iex"
+    }
+  ]
+}
